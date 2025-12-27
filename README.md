@@ -33,4 +33,20 @@ Calendar Widget: table_calendar
 
 ScreenShots:
 
-![image alt](
+![image alt](https://github.com/Yugesh-kumar26/Digital-Diary-App/blob/54517962368222be5339476f88d9c338de041323/diary1.png)
+
+Image 2:
+
+![image alt](https://github.com/Yugesh-kumar26/Digital-Diary-App/blob/54517962368222be5339476f88d9c338de041323/diary2.png)
+
+Image 3:
+
+![image alt](https://github.com/Yugesh-kumar26/Digital-Diary-App/blob/54517962368222be5339476f88d9c338de041323/diary3.png)
+
+Image4:
+
+![image alt](https://github.com/Yugesh-kumar26/Digital-Diary-App/blob/54517962368222be5339476f88d9c338de041323/diary4.png)
+
+Image 5:
+
+![image alt](https://github.com/Yugesh-kumar26/Digital-Diary-App/blob/54517962368222be5339476f88d9c338de041323/Diary5.png)
